@@ -1,0 +1,25 @@
+,text,is_italic,x_top_left,font_size,start,is_bold,font_name,is_normal,y_top_left,width,end,height,w2v,ADJ,PROPN,NUM,NOUN,DATE,URL,PERSON,ORG,ABB
+0,2017,False,614,22,0,True,"ABCDEE+Calibri,Bold",False,378,44,4,11,-0.00010613922,0,0,0,0,1,0,0,0,0
+1,Новикова,True,177,22,0,False,"ABCDEE+Calibri,Italic",False,145,90,8,11,-0.0005589154,0,1,0,0,0,0,1,0,0
+2,Елена,True,272,22,9,False,"ABCDEE+Calibri,Italic",False,145,55,14,11,0.0005219247,0,1,0,0,0,0,1,0,0
+3,Дмитриевна,True,333,22,15,False,"ABCDEE+Calibri,Italic",False,145,124,25,11,0.00026847777,0,1,0,0,0,0,1,0,0
+4,Институт,False,207,22,0,False,ABCDEE+Calibri,True,427,82,8,11,-0.00026118165,0,0,0,0,0,0,0,1,0
+5,химии,False,295,22,9,False,ABCDEE+Calibri,True,427,60,14,11,0.00042750023,0,0,0,0,0,0,0,1,0
+6,растворов,False,360,22,15,False,ABCDEE+Calibri,True,427,95,24,11,-0.00021249875,0,0,0,0,0,0,0,1,0
+7,31.08.2020,False,287,22,0,False,ABCDEE+Calibri,True,471,100,10,11,0.00066785037,0,0,0,0,1,0,0,0,0
+8,Студент,True,362,28,0,True,"Times New Roman,BoldItalic",False,98,116,7,12,0.00071579794,0,0,0,1,0,0,0,0,0
+9,ФИО:,False,56,36,0,True,"Times New Roman,Bold",False,145,99,4,16,0.00050687796,0,0,0,0,0,0,0,0,0
+10,Номер,False,56,28,0,True,"ABCDEE+Calibri,Bold",False,193,82,5,14,0.00013176799,0,1,0,0,0,0,0,0,0
+11,приказа:,False,145,28,6,True,"ABCDEE+Calibri,Bold",False,193,106,14,14,0.00022910694,0,0,0,0,0,0,0,0,0
+12,3876-НГ,False,258,28,15,True,"ABCDEE+Calibri,Bold",False,193,95,22,14,0.0011111012,0,0,1,0,0,0,0,0,1
+13,Проректор:,False,56,28,0,False,Times New Roman,True,238,136,10,12,-6.361975e-05,0,0,0,0,0,0,0,0,0
+14,Зайцев,False,199,28,11,False,Times New Roman,True,238,82,17,12,0.00095353165,0,1,0,0,0,0,1,0,0
+15,Сергей,False,288,28,18,False,Times New Roman,True,238,84,24,12,0.00044014808,0,1,0,0,0,0,1,0,0
+16,Андреевич,False,380,28,25,False,Times New Roman,True,238,130,34,12,0.001303153,0,1,0,0,0,0,1,0,0
+17,Группа:,False,56,36,0,False,ABCDEE+Calibri,True,375,115,7,18,0.00017567373,0,0,0,0,0,0,0,0,0
+18,Год,False,342,36,8,False,ABCDEE+Calibri,True,375,54,11,18,-0.00063131755,0,1,0,0,0,0,0,0,0
+19,поступления:,False,405,36,12,False,ABCDEE+Calibri,True,375,203,24,18,-0.0006412031,0,0,0,0,0,0,0,0,0
+20,Факультет:,True,56,25,0,False,"ABCDEE+Calibri,Italic",False,425,140,10,12,-0.0001588081,0,0,0,0,0,0,0,0,0
+21,Действителен,True,56,25,0,True,"ABCDEE+Calibri,BoldItalic",False,468,176,12,12,0.00066477084,0,1,0,0,0,0,0,0,0
+22,до:,True,238,25,13,True,"ABCDEE+Calibri,BoldItalic",False,468,34,16,12,1.500289e-05,0,0,0,0,0,0,0,0,0
+23,2212ХР,False,186,22,0,True,"ABCDEE+Calibri,Bold",False,381,68,6,11,-0.00031310134,0,0,1,0,0,0,0,0,1

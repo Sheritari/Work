@@ -1,0 +1,24 @@
+,text,is_italic,x_top_left,font_size,start,is_bold,font_name,is_normal,y_top_left,width,end,height,w2v,ADJ,PROPN,NUM,NOUN,DATE,URL,PERSON,ORG,ABB
+0,2018,False,614,22,0,True,"ABCDEE+Calibri,Bold",False,378,44,4,11,-0.00030423346,0,0,0,0,1,0,0,0,0
+1,Захаров,True,177,22,0,False,"ABCDEE+Calibri,Italic",False,145,75,7,11,-0.0004654008,0,1,0,0,0,0,1,0,0
+2,Артем,True,258,22,8,False,"ABCDEE+Calibri,Italic",False,145,66,13,11,-0.00044571565,0,1,0,0,0,0,1,0,0
+3,Олегович,True,329,22,14,False,"ABCDEE+Calibri,Italic",False,145,88,22,11,-0.0012145331,0,1,0,0,0,0,1,0,0
+4,Институт,False,207,22,0,False,ABCDEE+Calibri,True,427,82,8,11,-0.00026118165,0,1,0,0,0,0,1,0,0
+5,Экономики,False,295,22,9,False,ABCDEE+Calibri,True,427,105,18,11,0.0005475234,0,1,0,0,0,0,1,0,0
+6,31.08.2021,False,287,22,0,False,ABCDEE+Calibri,True,471,100,10,11,5.2867413e-06,0,0,0,0,1,0,0,0,0
+7,Студент,True,362,28,0,True,"Times New Roman,BoldItalic",False,98,116,7,12,0.00071579794,0,1,0,0,0,0,0,0,0
+8,ФИО:,False,56,36,0,True,"Times New Roman,Bold",False,145,99,4,16,0.00050687796,0,0,0,0,0,0,0,0,0
+9,Номер,False,56,28,0,True,"ABCDEE+Calibri,Bold",False,193,82,5,14,0.00013176799,0,1,0,0,0,0,0,0,0
+10,приказа:,False,145,28,6,True,"ABCDEE+Calibri,Bold",False,193,106,14,14,0.00022910694,0,0,0,0,0,0,0,0,0
+11,3876-НГ,False,258,28,15,True,"ABCDEE+Calibri,Bold",False,193,95,22,14,0.0011111012,0,0,1,0,0,0,0,0,1
+12,Проректор:,False,56,28,0,False,Times New Roman,True,238,136,10,12,-6.361975e-05,0,0,0,0,0,0,0,0,0
+13,Васильев,False,200,28,11,False,Times New Roman,True,238,110,19,12,-0.00022352465,0,1,0,0,0,0,1,0,0
+14,Андрей,False,317,28,20,False,Times New Roman,True,238,91,26,12,0.0009956072,0,1,0,0,0,0,1,0,0
+15,Сергеевич,False,415,28,27,False,Times New Roman,True,238,123,36,12,0.0008826974,0,1,0,0,0,0,1,0,0
+16,Группа:,False,56,36,0,False,ABCDEE+Calibri,True,375,115,7,18,0.00017567373,0,0,0,0,0,0,0,0,0
+17,Год,False,342,36,8,False,ABCDEE+Calibri,True,375,54,11,18,-0.00063131755,0,1,0,0,0,0,0,0,0
+18,поступления:,False,405,36,12,False,ABCDEE+Calibri,True,375,203,24,18,-0.0006412031,0,0,0,0,0,0,0,0,0
+19,Факультет:,True,56,25,0,False,"ABCDEE+Calibri,Italic",False,425,140,10,12,-0.0001588081,0,0,0,0,0,0,0,0,0
+20,Действителен,True,56,25,0,True,"ABCDEE+Calibri,BoldItalic",False,468,176,12,12,0.00066477084,0,1,0,0,0,0,0,0,0
+21,до:,True,238,25,13,True,"ABCDEE+Calibri,BoldItalic",False,468,34,16,12,1.500289e-05,0,0,0,0,0,0,0,0,0
+22,45Д,False,186,22,0,True,"ABCDEE+Calibri,Bold",False,381,37,3,11,-0.0005443066,0,0,1,0,0,0,0,0,1
